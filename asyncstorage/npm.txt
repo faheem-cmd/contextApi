@@ -1,0 +1,2 @@
+https://github.com/sunnylqm/react-native-storage
+https://github.com/peterpme/react-native-asyncstorage
